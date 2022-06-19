@@ -1,0 +1,67 @@
+.navbar {
+  background-color: white;
+  position: sticky;
+  top: 0;
+}
+
+.CareerKick {
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    font-size: 2.25rem;
+    text-shadow: 2px 2px rgb(241, 233, 233);
+    font-weight: 500;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-right: 4rem;
+    margin-left: 3rem;
+}
+
+.fa-briefcase{
+    padding: 0 0.5rem 0 0.5rem;
+  color: rgb(99, 68, 82);
+  width: 28px;
+  height: 32px;
+  margin-right: 0.3rem;
+  margin-left: -2.5rem;
+}
+
+.navbar-headers {
+     margin-left: 1%;
+}
+
+.navbar-nav {
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    padding: 1.2rem;
+    margin-left: 0.5%;
+}
+  
+.navbar-list {
+    list-style-type: none;
+    display: inline;
+}
+  
+.navbar-item {
+    text-decoration: none;
+    color: black;
+    font-size: 1.65rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 450;
+    margin-right: 4rem;
+    margin-left: 0.1rem;
+    padding: 0.1rem 0.4rem 0.1rem 0.4rem; 
+    line-height: 2.1em;
+}
+
+.navbar-items:hover {
+    background-color: white;
+    border-radius: 0.2rem;
+}
+
+.navbar-headers2 {
+    margin-left: auto;
+  margin-right: 1%;
+  }
